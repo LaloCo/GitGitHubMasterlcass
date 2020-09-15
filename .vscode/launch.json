@@ -6,18 +6,23 @@
     "configurations": [
         {
             "type": "browser-preview",
-            "request": "attach",
-            "name": "Browser Preview: Attach"
+            "request": "launch",
+            "name": "Browser Preview: Launch",
+            "url": "http://localhost:3000"
         },
 
- {
+        {
             "name": "Launch Chrome",
             "request": "launch",
             "type": "pwa-chrome",
             "url": "http://localhost:8080",
             "webRoot": "${workspaceFolder}"
 
+        },
+    
 
+
+        
         {
             "type": "pwa-chrome",
             "request": "launch",
