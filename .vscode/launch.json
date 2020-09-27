@@ -4,6 +4,17 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        
+        {
+            "name": "Attach",
+            "port": 9229,
+            "request": "attach",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "pwa-node"
+        },
+
         {
             "type": "browser-preview",
             "request": "launch",
@@ -38,3 +49,13 @@
     },
     "args": ["${file}"]
 }
+
+{
+    "type": "jshint",
+    "request": "launch",
+    "name": "jshint",
+    "file": "c:\\Users\\Eralda Chung-Colon\\desktop\\GitGithubMasterclass\\GitGithubMasterclass--2\\index.html"
+}
+
+
+
