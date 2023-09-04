@@ -1,3 +1,3 @@
 This is forked file for git github masterclass course
 
-1. [click to visit github website](github.com)
+1. [click to visit github website](www.github.com)
