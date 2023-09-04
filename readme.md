@@ -1,3 +1,3 @@
 This is forked file for git github masterclass course
 
-1. [click to visit github website](www.github.com)
+1. [click to visit website]([www.github.com](https://argusoft.udemy.com/course/git-and-github-masterclass/learn/lecture/14479392#overview)https://argusoft.udemy.com/course/git-and-github-masterclass/learn/lecture/14479392#overview)
